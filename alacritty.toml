@@ -1,0 +1,33 @@
+live_config_reload = true
+
+import = [
+  "~/.config/alacritty/catppuccin-frappe.toml"
+]
+
+[font]
+size = 7.0
+
+[font.bold]
+family = "JetBrainsMono Nerd Font Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font Mono"
+style = "BoldItalic"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font Mono"
+style = "MediumItalic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font Mono"
+style = "Regular"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window]
+decorations = "None"
+dynamic_padding = false
+padding = { x = 5, y = 5}

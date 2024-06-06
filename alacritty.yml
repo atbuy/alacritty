@@ -1,0 +1,25 @@
+live_config_reload: true
+
+window:
+  opacity: 0.85
+  dynamic_padding: false
+  decorations: buttonless
+
+scrolling:
+  history: 10000
+  multiplier: 3 
+
+font:
+  normal:
+    family: "JetBrainsMono Nerd Font Mono"
+    style: Regular
+  bold:
+    family: "JetBrainsMono Nerd Font Mono"
+    style: Bold
+  italic:
+    family: "JetBrainsMono Nerd Font Mono"
+    style: MediumItalic
+  bold_italic:
+    family: "JetBrainsMono Nerd Font Mono"
+    style: BoldItalic
+  size: 13.0
